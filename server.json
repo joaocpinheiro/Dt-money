@@ -55,6 +55,38 @@
       "type": "income",
       "createdAt": "2023-12-02T01:36:55.436Z",
       "id": 7
+    },
+    {
+      "description": "Chocolate",
+      "price": 7,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-12-02T18:20:13.659Z",
+      "id": 8
+    },
+    {
+      "description": "Banana",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2023-12-02T18:21:12.907Z",
+      "id": 9
+    },
+    {
+      "description": "Doce",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-12-02T18:23:02.411Z",
+      "id": 10
+    },
+    {
+      "description": "Uva",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-12-02T18:23:41.296Z",
+      "id": 11
     }
   ]
 }
