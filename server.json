@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.5052"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-07-29T19:30:44.5052"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000.6,
+      "createdAt": "2022-07-29T19:36:44.5052"
+    },
+    {
+      "id": 4,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60.2,
+      "createdAt": "2022-07-29T19:30:44.5052"
+    },
+    {
+      "description": "churros",
+      "price": 10,
+      "category": "Comida",
+      "type": "income",
+      "createdAt": "2023-12-02T01:04:43.942Z",
+      "id": 5
+    },
+    {
+      "description": "Dog",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-12-02T01:33:11.191Z",
+      "id": 6
+    },
+    {
+      "description": "Desenvolvimento app",
+      "price": 10,
+      "category": "Curso",
+      "type": "income",
+      "createdAt": "2023-12-02T01:36:55.436Z",
+      "id": 7
+    }
+  ]
+}
